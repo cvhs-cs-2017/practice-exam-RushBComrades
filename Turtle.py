@@ -25,3 +25,5 @@ for x in range(180):
 Vex.right(90)
 Vex.forward(118)
 input()
+from MyFile.py import meme
+meme(input())
